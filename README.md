@@ -27,3 +27,4 @@ Getting started with Flutter Development : <a href="https://coursera.org/share/c
 </div>
 
 ## Projects
+AI-powered travel planning application : Easy Travel is an AI-powered travel app that offers personalized trip suggestions and user management tools.
