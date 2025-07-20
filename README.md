@@ -11,7 +11,7 @@ To pursue a career in cybersecurity (blue team), combining my Business Intellige
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| x | <a href="https://google.com"x</a>|
+| x | <a href="https://google.com">x</a>|
 
 ## Tools
 
