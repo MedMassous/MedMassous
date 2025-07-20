@@ -18,7 +18,11 @@ To pursue a career in cybersecurity (blue team), combining my Business Intellige
 
 ## Certifications
 <div>
-
+Introduction to Front-End Development : <a href="https://coursera.org/share/c7843e7b68cf23a3004797fe404143b0">Verify</a><br>
+Open Source Software Development Methods : <a href="https://coursera.org/share/545cfc622d7ada0ce2ee81c1b6debc2f">Verify</a><br>
+Foundations of Cybersecurity : <a href="https://coursera.org/share/b43427645b9153a5b02717d019d6afc2">Verify</a><br>
+Learn to Program: The Fundamentals : <a href="https://coursera.org/share/73c1ffb9b55b88798764aebf09ce972c">Verify</a><br>
+Getting started with Flutter Development : <a href="https://coursera.org/share/c3b673eda0b42c0d56e70919ab915f88">Verify</a><br>
 </div>
 
 ## Projects
