@@ -6,15 +6,6 @@ I'm a Business Intelligence graduate with a strong foundation, now preparing to 
 ## Objective
 To pursue a career in cybersecurity (blue team), combining my Business Intelligence background with skills in networks, systems, and data protection, while advancing through certifications and hands-on projects.
 
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| x | <a href="https://google.com">x</a>|
-
-## Tools
-
 
 ## Certifications
 <div>
