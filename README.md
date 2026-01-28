@@ -53,6 +53,7 @@ To build a career in **blue team cybersecurity**, leveraging my Business Intelli
 - Implemented user authentication and profile management
 - Worked with structured data, logic optimization, and system design
 - Applied secure handling of user data and application logic
+  
 👉 **[More Informations](./TRAVEL.pdf)**
 ---
 
