@@ -55,6 +55,8 @@ To build a career in **blue team cybersecurity**, leveraging my Business Intelli
 - Applied secure handling of user data and application logic
   
 👉 **[More Informations](./TRAVEL.pdf)**
+
+
 ---
 
 ## 📚 Currently Learning
