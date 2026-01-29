@@ -73,4 +73,5 @@ You can download my CV here:
 ---
 
 ## 📫 Contact
+- 📧 Email: [mohamed.massous@proton.me](mailto:mohamed.massous@proton.me)
 - LinkedIn: https://linkedin.com/in/massous-med
