@@ -74,15 +74,34 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 
 ## 🧪 Projects
 
-### Easy Travel — AI-Powered Travel Planning Application
+### ✈️ Easy Travel — AI-Powered Travel Planning Application
+👉 **[More Information](./TRAVEL.pdf)**  
+An intelligent travel planning app that helps users build optimized trips using AI-driven recommendations.
 
-* Developed an AI-based application delivering personalized travel recommendations
-* Implemented user authentication and profile management
-* Worked with structured data, logic optimization, and system design
-* Considered authentication flows and access control
-* Focused on secure handling of user data and application logic
+---
 
-👉 **[More Information](./TRAVEL.pdf)**
+### 📚 Library Website
+🔗 **[GitHub Repository](https://github.com/MedMassous/library-website.git)**  
+A simple library website built to practice web fundamentals, including page structure, navigation, and basic user interaction.
+
+---
+
+### 🗂️ Library Management System (C)
+🔗 **[GitHub Repository](https://github.com/MedMassous/library-management-c.git)**  
+A console-based library management system written in C, focusing on data structures, file handling, and core programming logic.
+
+---
+
+### 🪟 Windows Log Parser (Python)
+🔗 **[GitHub Repository](https://github.com/MedMassous/windows_log_parser.git)**  
+A Python tool that parses Windows event logs (e.g. authentication events) to extract useful information and generate basic security alerts.
+
+---
+
+### 🔐 Password Strength Checker (Python)
+🔗 **[GitHub Repository](https://github.com/MedMassous/password-strength-checker.git)**  
+A lightweight Python tool that evaluates password strength based on length, complexity, common passwords, and repetition patterns.
+
 
 ---
 
