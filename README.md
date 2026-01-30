@@ -41,36 +41,14 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 
 ## 🧠 Skills
 
-### Security & Blue Team
+- Log analysis and basic incident investigation  
+- SOC fundamentals and blue team workflows  
+- Network traffic analysis (TCP/IP, DNS, HTTP/S)  
+- Linux & Windows fundamentals  
+- Wireshark, Nmap  
+- Python for basic security scripting  
+- Hands-on labs (TryHackMe)
 
-* Log analysis and incident investigation
-* Windows Event Logs (basic)
-* Network traffic analysis and threat detection
-* SOC fundamentals and blue team workflows
-
-### Networking
-
-* TCP/IP, DNS, HTTP/S
-
-### Systems
-
-* Linux & Windows operating systems
-
-### Tools
-
-* Wireshark, Nmap
-* TryHackMe labs
-
-### Scripting
-
-* Python (basic scripting and automation)
-
-### Strengths
-
-* Analytical thinking
-* Data-driven problem solving
-
----
 
 ## 🧪 Projects
 
