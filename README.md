@@ -107,9 +107,14 @@ A lightweight Python tool that evaluates password strength based on length, comp
 
 ## 📚 Currently Learning
 
-* SOC operations and blue team workflows
-* Windows Event Logs (4624, 4625, 4688) and SIEM fundamentals
-* Network traffic analysis and attack detection
+- SOC operations and Blue Team workflows (monitoring, triage, alerting)
+- Windows internals & Event Logs
+- SIEM fundamentals (log ingestion, parsing, detection rules)
+- Network traffic analysis (Wireshark, basic IDS concepts)
+- Python for cybersecurity (log parsing, automation, detection scripts)
+- Linux fundamentals for security (permissions, processes, networking)
+- Red Team basics (reconnaissance, attack techniques, lab environments)
+- TryHackMe-style hands-on labs and practical cybersecurity exercises
 
 ---
 
