@@ -83,6 +83,13 @@ A lightweight Python tool that evaluates password strength based on length, comp
 
 ---
 
+### 🛡️ PowerShell Command Detector (Python)
+🔗 **[GitHub Repository](https://github.com/MedMassous/powershell-command-detector.git)**  
+A blue team–focused Python tool that analyzes Windows-style logs to detect suspicious PowerShell commands commonly used in malware, fileless attacks, and post-exploitation activity.
+
+---
+
+
 ## 📚 Currently Learning
 
 - SOC operations and Blue Team workflows (monitoring, triage, alerting)
