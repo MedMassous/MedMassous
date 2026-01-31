@@ -100,7 +100,7 @@ A blue team–focused Python tool that analyzes Windows-style logs to detect sus
 - Linux fundamentals for security (permissions, processes, networking)
 - Red Team basics (reconnaissance, attack techniques, lab environments)
 - TryHackMe-style hands-on labs and practical cybersecurity exercises
-- <img src="https://tryhackme-badges.s3.amazonaws.com/MedMassous.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MedMassous.png" alt="Your Image Badge" />
 
 
 ---
