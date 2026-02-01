@@ -18,30 +18,11 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 ---
 
 # 🏆 Certifications
-
-# Cybersecurity
-# Advent of Cyber 2025 – TryHackMe (Malware Analysis, SOC Triage)
-# https://tryhackme.com/certificate/THM-ABWNB9LWCH
-
-# Jr Penetration Tester – TryHackMe (Pentesting & Exploitation)
-# https://tryhackme.com/certificate/THM-J2RAV8PTES
-
-# Foundations of Cybersecurity – Google (Threats & Vulnerabilities)
-# https://www.coursera.org/account/accomplishments/1C7QT7J4WVSY
-
-# Web & Development
-# Front-End Development – Meta (HTML, CSS, JavaScript)
-# https://www.coursera.org/account/accomplishments/RBVPX4WXEGMG
-
-# Flutter Development – Google Cloud (Mobile Apps)
-# https://www.cloudskillsboost.google/public_profiles/M6W7LPHKQLBV
-
-# Python Fundamentals – University of Toronto
-# https://www.coursera.org/account/accomplishments/CGHETUECEDIW
-
-# Collaboration
-# Open Source Development – Linux Foundation (Git & GitHub)
-# https://www.coursera.org/account/accomplishments/96DN7ZKGZFVS
+# TryHackMe: Advent of Cyber 2025, Jr Penetration Tester, Pre Security
+# Google: Foundations of Cybersecurity, Flutter Development
+# Meta: Front-End Development
+# University of Toronto: Python Fundamentals
+# Linux Foundation: Open Source Development
 
 ## 🧠 Skills
 
