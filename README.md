@@ -52,42 +52,46 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 
 ## 🧪 Projects
 
-### ✈️ Easy Travel — AI-Powered Travel Planning Application
-👉 **[More Information](./TRAVEL.pdf)**  
-An intelligent travel planning app that helps users build optimized trips using AI-driven recommendations.
+### ✈️ Easy Travel — AI Travel Planner
+👉 **[More Info](./TRAVEL.pdf)**  
+AI-powered app for building optimized travel plans.
 
 ---
 
 ### 📚 Library Website
-🔗 **[GitHub Repository](https://github.com/MedMassous/library-website.git)**  
-A simple library website built to practice web fundamentals, including page structure, navigation, and basic user interaction.
+🔗 **[GitHub](https://github.com/MedMassous/library-website.git)**  
+Simple HTML/CSS website to practice web fundamentals.
 
 ---
 
 ### 🗂️ Library Management System (C)
-🔗 **[GitHub Repository](https://github.com/MedMassous/library-management-c.git)**  
-A console-based library management system written in C, focusing on data structures, file handling, and core programming logic.
+🔗 **[GitHub](https://github.com/MedMassous/library-management-c.git)**  
+Console-based C project focusing on core logic and file handling.
 
 ---
 
 ### 🪟 Windows Log Parser (Python)
-🔗 **[GitHub Repository](https://github.com/MedMassous/windows_log_parser.git)**  
-A Python tool that parses Windows event logs (e.g. authentication events) to extract useful information and generate basic security alerts.
+🔗 **[GitHub](https://github.com/MedMassous/windows_log_parser.git)**  
+Parses Windows/Sysmon-style logs and generates basic security alerts.
 
 ---
 
 ### 🔐 Password Strength Checker (Python)
-🔗 **[GitHub Repository](https://github.com/MedMassous/password-strength-checker.git)**  
-A lightweight Python tool that evaluates password strength based on length, complexity, common passwords, and repetition patterns.
-
+🔗 **[GitHub](https://github.com/MedMassous/password-strength-checker.git)**  
+Evaluates password strength and detects weak patterns.
 
 ---
 
 ### 🛡️ PowerShell Command Detector (Python)
-🔗 **[GitHub Repository](https://github.com/MedMassous/powershell-command-detector.git)**  
-A blue team–focused Python tool that analyzes Windows-style logs to detect suspicious PowerShell commands commonly used in malware, fileless attacks, and post-exploitation activity.
+🔗 **[GitHub](https://github.com/MedMassous/powershell-command-detector.git)**  
+Detects suspicious PowerShell commands in Windows logs.
 
 ---
+
+### 🧠 Mini SIEM (Python)
+🔗 **[GitHub](https://github.com/MedMassous/Mini-SIEM-in-Python.git)**  
+A mini SIEM that ingests logs, correlates events, and generates SOC-style alerts.
+
 
 
 ## 📚 Currently Learning
