@@ -17,27 +17,31 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 
 ---
 
-## 🛡️ Certifications
+# 🏆 Certifications
 
-### Cybersecurity
+# Cybersecurity
+# Advent of Cyber 2025 – TryHackMe (Malware Analysis, SOC Triage)
+# https://tryhackme.com/certificate/THM-ABWNB9LWCH
 
-* **Foundations of Cybersecurity** — Coursera
-  [Verify](https://coursera.org/share/b43427645b9153a5b02717d019d6afc2)
-* **Pre Security** — TryHackMe
-  [Verify](https://tryhackme.com/certificate/THM-XAAD8QUUE2)
+# Jr Penetration Tester – TryHackMe (Pentesting & Exploitation)
+# https://tryhackme.com/certificate/THM-J2RAV8PTES
 
-### Software & Technical Foundations
+# Foundations of Cybersecurity – Google (Threats & Vulnerabilities)
+# https://www.coursera.org/account/accomplishments/1C7QT7J4WVSY
 
-* **Open Source Software Development Methods** — Coursera
-  [Verify](https://coursera.org/share/545cfc622d7ada0ce2ee81c1b6debc2f)
-* **Learn to Program: The Fundamentals** — Coursera
-  [Verify](https://coursera.org/share/73c1ffb9b55b88798764aebf09ce972c)
-* **Introduction to Front-End Development** — Coursera
-  [Verify](https://coursera.org/share/c7843e7b68cf23a3004797fe404143b0)
-* **Getting Started with Flutter Development** — Coursera
-  [Verify](https://coursera.org/share/c3b673eda0b42c0d56e70919ab915f88)
+# Web & Development
+# Front-End Development – Meta (HTML, CSS, JavaScript)
+# https://www.coursera.org/account/accomplishments/RBVPX4WXEGMG
 
----
+# Flutter Development – Google Cloud (Mobile Apps)
+# https://www.cloudskillsboost.google/public_profiles/M6W7LPHKQLBV
+
+# Python Fundamentals – University of Toronto
+# https://www.coursera.org/account/accomplishments/CGHETUECEDIW
+
+# Collaboration
+# Open Source Development – Linux Foundation (Git & GitHub)
+# https://www.coursera.org/account/accomplishments/96DN7ZKGZFVS
 
 ## 🧠 Skills
 
