@@ -38,6 +38,8 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 - Wireshark, Nmap  
 - Python for basic security scripting  
 - Hands-on labs (TryHackMe)
+  
+<img src="https://tryhackme-badges.s3.amazonaws.com/MedMassous.png" alt="Your Image Badge" />
 
 
 ## 🧪 Projects
