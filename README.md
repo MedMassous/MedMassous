@@ -52,47 +52,24 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 
 ## 🧪 Projects
 
-### ✈️ Easy Travel — AI Travel Planner
-👉 **[More Info](./TRAVEL.pdf)**  
-AI-powered app for building optimized travel plans.
+- **🧠 Mini SIEM (Python)** — Log ingestion, correlation & SOC-style alerts  
+  🔗 [GitHub](https://github.com/MedMassous/Mini-SIEM-in-Python)
 
----
+- **🪟 Windows Log Parser (Python)** — Parses Windows/Sysmon logs, detects threats  
+  🔗 [GitHub](https://github.com/MedMassous/windows_log_parser)
 
-### 📚 Library Website
-🔗 **[GitHub](https://github.com/MedMassous/library-website.git)**  
-Simple HTML/CSS website to practice web fundamentals.
+- **🛡️ PowerShell Command Detector** — Flags suspicious PowerShell activity  
+  🔗 [GitHub](https://github.com/MedMassous/powershell-command-detector)
 
----
+- **🔐 Password Strength Checker** — Detects weak passwords & patterns  
+  🔗 [GitHub](https://github.com/MedMassous/password-strength-checker)
 
-### 🗂️ Library Management System (C)
-🔗 **[GitHub](https://github.com/MedMassous/library-management-c.git)**  
-Console-based C project focusing on core logic and file handling.
+- **📚 Library Management System (C)** — Console app with file handling & core logic  
+  🔗 [GitHub](https://github.com/MedMassous/library-management-c)
 
----
+- **✈️ Easy Travel (AI)** — AI-based travel planning app  
+  🔗 [More Info](./TRAVEL.pdf)
 
-### 🪟 Windows Log Parser (Python)
-🔗 **[GitHub](https://github.com/MedMassous/windows_log_parser.git)**  
-Parses Windows/Sysmon-style logs and generates basic security alerts.
-
----
-
-### 🔐 Password Strength Checker (Python)
-🔗 **[GitHub](https://github.com/MedMassous/password-strength-checker.git)**  
-Evaluates password strength and detects weak patterns.
-
----
-
-### 🛡️ PowerShell Command Detector (Python)
-🔗 **[GitHub](https://github.com/MedMassous/powershell-command-detector.git)**  
-Detects suspicious PowerShell commands in Windows logs.
-
----
-
-### 🧠 Mini SIEM (Python)
-🔗 **[GitHub](https://github.com/MedMassous/Mini-SIEM-in-Python.git)**  
-A mini SIEM that ingests logs, correlates events, and generates SOC-style alerts.
-
----
 
 ## 📚 Currently Learning
 
