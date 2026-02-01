@@ -92,7 +92,7 @@ Detects suspicious PowerShell commands in Windows logs.
 🔗 **[GitHub](https://github.com/MedMassous/Mini-SIEM-in-Python.git)**  
 A mini SIEM that ingests logs, correlates events, and generates SOC-style alerts.
 
-
+---
 
 ## 📚 Currently Learning
 
