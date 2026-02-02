@@ -41,10 +41,10 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 
 ## 🧪 Projects
 
-- **🧠 Mini SIEM (Python)** — Log ingestion, correlation & SOC-style alerts  
+- **🧠 Mini SIEM ** — Log ingestion, correlation & SOC-style alerts  
   🔗 [GitHub](https://github.com/MedMassous/Mini-SIEM-in-Python)
 
-- **🪟 Windows Log Parser (Python)** — Parses Windows/Sysmon logs, detects threats  
+- **🪟 Windows Log Parser ** — Parses Windows/Sysmon logs, detects threats  
   🔗 [GitHub](https://github.com/MedMassous/windows_log_parser)
 
 - **🛡️ PowerShell Command Detector** — Flags suspicious PowerShell activity  
@@ -53,7 +53,7 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
 - **🔐 Password Strength Checker** — Detects weak passwords & patterns  
   🔗 [GitHub](https://github.com/MedMassous/password-strength-checker)
 
-- **📚 Library Management System (C)** — Console app with file handling & core logic  
+- **📚 Library Management System ** — Console app with file handling & core logic  
   🔗 [GitHub](https://github.com/MedMassous/library-management-c)
 
 - **✈️ Easy Travel (AI)** — AI-based travel planning app  
