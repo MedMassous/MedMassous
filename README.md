@@ -45,6 +45,7 @@ To start a career in **blue team cybersecurity** as a **SOC Analyst / Junior Sec
   🔗 [GitHub](https://github.com/MedMassous/Mini-SIEM-in-Python)
   
 - 🦠 Basic Malware Analysis Helper — Static malware triage (hashes, strings, PE analysis, risk scoring)
+  
   🔗 [GitHub](https://github.com/MedMassous/Malware-analysis-helper.git)
 
 -  🪟 **Windows Log Parser** — Parses Windows/Sysmon logs, detects threats  
