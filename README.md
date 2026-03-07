@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/massous-med/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="./Mohamed_Massous_CV.pdf">
+<a href="./Mohamed_Massous_Cybersecurity_CV.pdf">
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 
@@ -83,7 +83,7 @@ Aspiring Cybersecurity Engineer with a background in computer science and Busine
 
 ## 📄 Resume
 
-👉 **[Mohamed_Massous_CV.pdf](./Mohamed_Massous_CV.pdf)**
+👉 **[Mohamed_Massous_CV.pdf](./Mohamed_Massous_Cybersecurity_CV.pdf)**
 
 ---
 
