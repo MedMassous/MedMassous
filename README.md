@@ -8,6 +8,7 @@
 </a>
 
 I'm a Computer Science student with a strong analytical foundation, currently building skills in cybersecurity through hands-on labs, projects, and certifications focused on threat analysis, system security, and practical security operations.
+
 ---
 
 ## 🎯 Objective
