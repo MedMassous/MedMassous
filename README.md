@@ -14,6 +14,7 @@ I'm a **Business Intelligence graduate** with a strong analytical foundation, cu
 ## 🎯 Objective
 
 Aspiring Cybersecurity Engineer with a background in computer science and Business Intelligence, seeking to start a career in cybersecurity where I can apply analytical thinking and technical skills to identify vulnerabilities, analyze security threats, and help protect systems and data. Passionate about continuous learning, hands-on security research, and building practical projects to develop expertise in modern cybersecurity practices.
+
 ---
 
 ## 🏆 Certifications
