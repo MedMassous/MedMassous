@@ -7,8 +7,7 @@
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 
-I'm a **Business Intelligence graduate** with a strong analytical foundation, currently transitioning into **cybersecurity** with a focus on **blue team operations**, system security, and threat detection. I’m building hands-on experience through labs, projects, and certifications to help protect digital systems and data.
-
+I'm a Computer Science student with a strong analytical foundation, currently building skills in cybersecurity through hands-on labs, projects, and certifications focused on threat analysis, system security, and practical security operations.
 ---
 
 ## 🎯 Objective
