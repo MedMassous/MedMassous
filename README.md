@@ -18,12 +18,14 @@ Aspiring Cybersecurity Engineer with a background in computer science and Busine
 ---
 
 ## 🏆 Certifications
-
+## Cybersecurity
 - **Advent of Cyber 2025** – TryHackMe · Malware Analysis, SOC Triage 🔗 [Credential](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ABWNB9LWCH.pdf)
 - **Jr Penetration Tester** – TryHackMe · Pentesting & Exploitation 🔗 [Credential](https://tryhackme.com/certificate/THM-J2RAV8PTES)
 - **Foundations of Cybersecurity** – Google · Threats & Vulnerabilities 🔗 [Credential](https://www.coursera.org/account/accomplishments/records/1C7QT7J4WVSY)
+## Programming
 - **Open Source Development** – Linux Foundation · Git & GitHub 🔗 [Credential](https://www.coursera.org/account/accomplishments/records/96DN7ZKGZFVS)
 - **Python Fundamentals** – University of Toronto · Algorithms & Debugging 🔗 [Credential](https://www.coursera.org/account/accomplishments/records/CGHETUECEDIW)
+##  Web Development
 - **Front-End Development** – Meta · HTML, CSS, JS 🔗 [Credential](https://www.coursera.org/account/accomplishments/records/RBVPX4WXEGMG)
 - **Flutter Development** – Google Cloud · Mobile Apps 🔗 [Credential](https://www.coursera.org/account/accomplishments/records/M6W7LPHKQLBV)
 
