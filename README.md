@@ -75,7 +75,7 @@ Aspiring Cybersecurity Engineer with a background in computer science and Busine
 - Python for cybersecurity (log parsing, automation, detection scripts)
 - Linux fundamentals for security (permissions, processes, networking)
 - Red Team basics (reconnaissance, attack techniques, lab environments)
-- TryHackMe-style hands-on labs and practical cybersecurity exercises
+- CTF challenges and practical cybersecurity labs
 
 
 
