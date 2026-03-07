@@ -13,7 +13,7 @@ I'm a Computer Science student with a strong analytical foundation, currently bu
 
 ## 🎯 Objective
 
-Aspiring Cybersecurity Engineer with a background in computer science and Business Intelligence, seeking to start a career in cybersecurity where I can apply analytical thinking and technical skills to identify vulnerabilities, analyze security threats, and help protect systems and data. Passionate about continuous learning, hands-on security research, and building practical projects to develop expertise in modern cybersecurity practices.
+Aspiring Cybersecurity Engineer with a background in computer science and Business Intelligence. Interested in identifying vulnerabilities, analyzing security threats, and protecting systems and data. Currently building hands-on experience through security labs, practical projects, and continuous learning.
 
 ---
 
