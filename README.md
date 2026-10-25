@@ -29,6 +29,7 @@ public-service offices.
 -   AWS fundamentals and cloud infrastructure
 -   Cloud support and infrastructure operations
 
-## Find me online
+## 📄 CV
 
--   [LinkedIn](https://www.linkedin.com/in/massous-med)
+- [View my CV (English)](https://docs.google.com/document/d/1j6DXKfHgr8CBEmGzvTCsD82hq8rgSwh1st-06ce8ILk/edit?usp=sharing)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/massous-med)
