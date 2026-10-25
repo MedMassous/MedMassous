@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Massous 👋
+# Hi, I'm Mohamed Massous
 
 I'm a Cloud Infrastructure Management engineering student at **TEK-UP
 University**, interested in Linux administration, infrastructure
@@ -29,7 +29,7 @@ public-service offices.
 -   AWS fundamentals and cloud infrastructure
 -   Cloud support and infrastructure operations
 
-## 📄 CV
+## CV
 
 - [View my CV (English)](https://docs.google.com/document/d/1j6DXKfHgr8CBEmGzvTCsD82hq8rgSwh1st-06ce8ILk/edit?usp=sharing)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/massous-med)
