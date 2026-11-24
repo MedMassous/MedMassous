@@ -31,5 +31,5 @@ public-service offices.
 
 ## CV
 
-- [View my CV (English)](https://docs.google.com/document/d/1_jAPXKMU1LPRkQgmQ14Sj4j4nzXp-8S-y7IQlT64FEo/edit?usp=sharing)
+- [View my CV (Français)](https://docs.google.com/document/d/1_jAPXKMU1LPRkQgmQ14Sj4j4nzXp-8S-y7IQlT64FEo/edit?usp=sharing)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/massous-med)
